@@ -80,3 +80,7 @@ tailrec fun fact(value: BigInteger, result: BigInteger = BigInteger.ONE) : BigIn
         return fact(value - BigInteger.ONE, value * result)
     }
 }
+
+fun abc() {
+
+}
