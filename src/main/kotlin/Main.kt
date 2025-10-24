@@ -44,7 +44,7 @@ fun main(args: Array<String>) {
 //    number["c"] = 3
 //    number.forEach { (k, v) -> println("Key $k: $v") }
 
-    var str = "4"
+    var str = "5"
     var num: Int = try {
         str.toInt()
     } catch (e : NumberFormatException) {
