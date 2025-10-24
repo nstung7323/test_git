@@ -84,7 +84,3 @@ tailrec fun fact(value: BigInteger, result: BigInteger = BigInteger.ONE) : BigIn
 fun abc() {
 
 }
-
-fun commit2() {
-
-}
