@@ -96,3 +96,7 @@ fun test() {
 fun fix() {
 
 }
+
+fun feature() {
+
+}
