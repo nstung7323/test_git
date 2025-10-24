@@ -100,3 +100,7 @@ fun fix() {
 fun feature() {
 
 }
+
+fun fixBug() {
+
+}
